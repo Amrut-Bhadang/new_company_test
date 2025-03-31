@@ -7,7 +7,7 @@
     "content-hash": "1e806adb32a13bc85dcbb1b9dd540439",
     "packages": [
         {
-            "name": "asm89/stack-cors",
+            "name": "asm89/stack-cors-data-new",
             "version": "v2.1.1",
             "source": {
                 "type": "git",
