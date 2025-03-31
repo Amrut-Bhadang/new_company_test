@@ -4,6 +4,7 @@
     <ul class="dropdown-menu">
       <li><a tabindex="-1" href="#">HTML</a></li>
       <li><a tabindex="-1" href="#">CSS</a></li>
+        <li><a tabindex="-1" href="#">Bootstrap</a></li>
       <li class="dropdown-submenu">
         <a class="test" tabindex="-1" href="#">New dropdown <span class="caret"></span></a>
         <ul class="dropdown-menu">
