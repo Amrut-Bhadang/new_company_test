@@ -1,6 +1,6 @@
 
 
-CREATE TABLE `admin_notification` (
+CREATE TABLE `admin_notifications` (
   `id` int NOT NULL,
   `title` varchar(255) DEFAULT NULL,
   `message` text,
