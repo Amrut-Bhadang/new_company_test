@@ -1,0 +1,1 @@
+<img src="{{ URL::asset('images/notfound.png')}}" width="50%" height="50%">

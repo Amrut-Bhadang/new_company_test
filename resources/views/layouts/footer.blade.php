@@ -1,0 +1,1 @@
+<span><script>document.write(new Date().getFullYear())</script> © {{ __('backend.company_name') }} {{ __('backend.All_Rights_Reserved') }}</script></span>

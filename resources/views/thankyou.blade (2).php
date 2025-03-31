@@ -1,0 +1,1 @@
+<img src="{{ URL::asset('images/thankyou.jpg')}}" width="100%" height="100%">

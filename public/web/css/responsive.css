@@ -1,0 +1,1517 @@
+/*Container css*/
+@media (min-width: 576px) {
+    .container {
+        max-width: 540px;
+    }
+}
+@media (min-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+}
+@media (min-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+}
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+}
+@media (min-width: 1280px) {
+    .container {
+        max-width: 1200px;
+    }
+}
+@media (min-width: 1380px) {
+    .container {
+        max-width: 1300px;
+    }
+}
+@media (min-width: 1480px) {
+    .container {
+        max-width: 1400px;
+    }
+}
+@media screen and (min-width: 1580px) {
+    .container {
+        max-width: 1500px !important;
+    }
+}
+@media screen and (max-width: 1541.98px) {
+    span.line-br {
+        margin: 0 10px;
+    }
+    .challenges_itm_img {
+        flex: 0 0 300px;
+    }
+    .challenges_itm_price h4 {
+        font-size: 16px;
+    }
+    .challenges_itm_con {
+        padding: 20px;
+    }
+    .challenges_itm_right {
+        padding-left: 20px;
+        margin-left: 20px;
+    }
+}
+@media screen and (max-width: 1391.98px) {
+    .date-inner {
+        padding: 0 15px;
+    }
+    .facilities-dtl-cont .box-title h3 {
+        font-size: 26px;
+    }
+    .box-title {
+        margin-bottom: 10px;
+    }
+    .court_dtl_sidebar_price_prc {
+        font-size: 18px;
+    }
+    .login_sec_con .input-group select {
+        flex: 0 0 100px;
+    }
+    .login_sec_con h4 {
+        font-size: 22px;
+    }
+    .login_sec_con p {
+        font-size: 14px;
+    }
+    .court-cont.court_content {
+        padding: 10px;
+    }
+    .footer_title {
+        font-size: 18px;
+    }
+    .footer_link ul {
+        margin-top: 20px;
+    }
+    .footer_about p {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+    .copyright_sec {
+        padding: 10px 0;
+    }
+    .search-btn .btn-primary {
+        font-size: 14px;
+    }
+    .distance {
+        font-size: 12px;
+        flex: 0 0 60px;
+    }
+    .quote-ic img {
+        max-width: 30px;
+    }
+    .testi-inner .item p {
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .testi-inner .item h4 {
+        font-size: 14px;
+    }
+    .testimonial-sec .owl-nav.disabled,
+    .testimonial-sec .owl-nav {
+        margin-top: 20px;
+    }
+    .testi-inner {
+        max-width: 60%;
+        padding: 45px;
+    }
+    span.address {
+        font-size: 12px;
+    }
+    .book-now button.btn-primary {
+        margin-top: 0;
+    }
+    .see-all {
+        margin: 15px auto 0;
+    }
+    .category_sec {
+        padding: 180px 0 40px;
+    }
+    .available-slot {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    .about-cont {
+        max-width: 90%;
+    }
+    .about-cont p {
+        font-size: 14px;
+    }
+    .btn-white {
+        font-size: 11px;
+        height: 28px;
+    }
+    .user-name h5 {
+        font-size: 14px;
+    }
+    span.line-br {
+        height: 12px;
+        margin-top: 1px;
+    }
+    .challenge-cont {
+        padding: 20px;
+    }
+    .court-sec .sub-head {
+        max-width: 40%;
+        margin: 20px auto 25px;
+    }
+
+    .progress-dtl {
+        display: flex;
+        margin: 10px 0;
+    }
+    .challenge-cont {
+        padding: 30px;
+    }
+    .address-dtl h5 {
+        font-size: 15px;
+    }
+    .time-wrap h5 {
+        font-size: 15px;
+    }
+    .menu ul li {
+        padding: 0 15px;
+    }
+    .main-title h1 {
+        font-size: 46px;
+    }
+    .main-title p {
+        font-size: 16px;
+    }
+    .heading-type-2 {
+        font-size: 30px;
+    }
+    .date-inner p {
+        font-size: 14px;
+    }
+    .sub-head {
+        font-size: 16px;
+    }
+    .heading-type-3 {
+        font-size: 30px;
+    }
+    .date-inner h3 span {
+        font-size: 16px;
+    }
+    .box-title h3 {
+        font-size: 16px;
+    }
+    .price-wrap h4 {
+        font-size: 14px;
+    }
+    .available-court span {
+        font-size: 13px;
+    }
+    .side-filter {
+        flex: 0 0 calc(350px - 30px);
+        max-width: 350px;
+    }
+    .court-img {
+        flex: 0 0 300px;
+    }
+    .court-price-inner .price-wrap h4 {
+        font-size: 18px;
+    }
+    .court-price-inner {
+        flex: 0 0 150px;
+        padding-left: 15px;
+        margin-left: 15px;
+    }
+    .courtpage-cont {
+        padding: 15px;
+        flex: 0 0 calc(100% - 300px);
+    }
+    .facilities-side {
+        flex: 0 0 calc(100% - 350px);
+        max-width: calc(100% - 350px);
+    }
+    .challenges_itm_img {
+        flex: 0 0 270px;
+    }
+    .challenges_itm_right {
+        flex: 0 0 195px;
+    }
+    .challenges_itm_con_in {
+        font-size: 14px;
+    }
+    span.court-ic {
+        margin-right: 4px;
+    }
+    .challenges_itm_price h4 span {
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 1279.98px) {
+    .challenges_itm_right .btn {
+        font-size: 13px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .challenges_itm_right {
+        flex: 0 0 170px;
+        padding-left: 15px;
+        margin-left: 15px;
+    }
+    .challenges_itm_con {
+        padding: 15px;
+    }
+    .court-bg .available-slot {
+        bottom: 15px;
+        left: 10px;
+        right: 10px;
+        margin-bottom: 0;
+    }
+}
+@media screen and (max-width: 1199.98px) {
+    .time-wrap {
+        flex: 0 0 60%;
+    }
+    .btn-white {
+        font-size: 11px;
+    }
+    .book-now {
+        margin-top: 10px;
+    }
+    .court_content .available-court .courts_icons img:last-child {
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+    .footer_title {
+        font-size: 18px;
+    }
+    .footer_about p {
+        font-size: 14px;
+        margin-top: 20px;
+        line-height: 1.4;
+    }
+    .footer_link ul {
+        margin-top: 20px;
+    }
+    .footer_link ul li a {
+        font-size: 14px;
+    }
+    .copyright_sec {
+        padding: 10px 0;
+    }
+    .court-cont.court_content {
+        padding: 15px 10px;
+    }
+    .box-title {
+        margin-bottom: 10px;
+    }
+    .distance {
+        font-size: 12px;
+        flex: 0 0 60px;
+    }
+    .time-label .checkmark {
+        height: 35px;
+        font-size: 12px;
+    }
+    .form-control {
+        font-size: 14px;
+    }
+    .slider-labels .caption {
+        font-size: 13px;
+    }
+    .price-wrap h4 {
+        font-size: 14px;
+    }
+    .courtpage-cont .court-location .address {
+        font-size: 12px;
+        line-height: 1.2;
+        text-overflow: unset;
+    }
+    .btn-primary {
+        padding: 0 10px;
+        font-size: 13px;
+    }
+    .about-cont p {
+        font-size: 14px;
+    }
+    .challenge-cont {
+        padding: 30px;
+    }
+    .address-dtl h5 {
+        font-size: 14px;
+    }
+    .time-wrap h5 {
+        font-size: 14px;
+    }
+    .user-name h5 {
+        font-size: 14px;
+    }
+
+    span.line-br {
+        margin: 0 5px;
+    }
+    .date-inner p {
+        font-size: 15px;
+    }
+    .banner-cont-sec {
+        max-width: 80%;
+    }
+    .menu ul li {
+        padding: 0 10px;
+    }
+    .menu ul li a {
+        font-size: 14px;
+    }
+    .category_sec {
+        padding: 160px 0 40px;
+    }
+    .category_space {
+        padding-left: 50px;
+    }
+    .influencer_sec {
+        padding-left: 40px;
+    }
+    .facilitie-sec .sub-head {
+        max-width: 60%;
+    }
+    .side-filter {
+        flex: 0 0 calc(280px - 20px);
+        max-width: 280px;
+    }
+    .court-img {
+        flex: 0 0 180px;
+    }
+    .facilities-side {
+        flex: 0 0 calc(100% - 290px);
+        max-width: calc(100% - 290px);
+    }
+    .court-price-inner {
+        flex: 0 0 120px;
+        padding-left: 10px;
+        margin-left: 10px;
+    }
+    .book-now .btn {
+        font-size: 13px;
+        padding: 5px 10px;
+    }
+    .court-price-inner .price-wrap h4 {
+        font-size: 16px;
+    }
+    .courtpage-cont {
+        padding: 15px;
+        flex: 0 0 calc(100% - 180px);
+    }
+    .available-slot {
+        font-size: 12px;
+    }
+    .court_dtl_con {
+        width: calc(100% - 350px);
+    }
+    .court_dtl_sidebar {
+        flex: 0 0 320px;
+    }
+    .available-slot-sec {
+        font-size: 15px;
+    }
+    .facilities-dtl-cont .box-title h3 {
+        font-size: 28px;
+    }
+    .date-sec {
+        flex: 0 0 100px;
+    }
+    .icon {
+        flex: 0 0 24px;
+        max-width: 24px;
+        height: 24px;
+    }
+    .icon img {
+        width: 11px;
+    }
+    .price-review-sec {
+        flex-wrap: wrap;
+    }
+    .court_content .available-court {
+        padding: 5px 10px;
+    }
+    .court_content .available-court .courts_icons img {
+        margin: 0 5px 5px 0;
+        max-height: 20px;
+        max-width: 20px;
+    }
+    .rules-col {
+        flex: 0 0 100%;
+        padding: 0 10px;
+        margin-bottom: 15px;
+    }
+    .ameni-box {
+        padding: 12px 5px;
+    }
+    .ameni-row {
+        margin: 0 -5px;
+    }
+    .ameni-col {
+        padding: 0 5px;
+    }
+    .leftbar {
+        flex: 0 0 220px;
+    }
+    .content_sec_profile_img {
+        width: 140px;
+        height: 140px;
+    }
+    .content_sec_profile {
+        flex: 0 0 220px;
+        padding: 20px;
+    }
+    .content_sec_profileinfo {
+        padding: 20px;
+    }
+    .btn.btn-primary {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .challenges_itm_payment_ic {
+        flex: 0 0 20px;
+    }
+    .leftbar_itms a {
+        padding: 12px 15px;
+    }
+    .challenges_itm_img {
+        flex: 0 0 200px;
+    }
+    .challenges_itm_right .btn {
+        font-size: 12px;
+    }
+    .challenges_itm_right {
+        flex: 0 0 162px;
+    }
+    .challenges_itm_price h4 {
+        font-size: 13px;
+    }
+    .challenges_itm_price h4 span {
+        font-size: 11px;
+    }
+    .challenges_itm_meta {
+        flex-wrap: wrap;
+    }
+    .challenges_itm_meta .opponent_s {
+        flex: 0 0 100%;
+        margin-bottom: 13px;
+    }
+    .challenges_itm_date span,
+    .challenges_itm_time span {
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 991.98px) {
+    .notification_main_sec.nav-item.dropdown .nav-link {
+        height: 26px;
+        width: 26px;
+    }
+
+    .notification_main_sec.nav-item.dropdown .fa {
+        font-size: 14px;
+    }
+    .facilitie-sec.space-cls {
+        padding-bottom: 40px;
+    }
+    .checkout_page.space-cls {
+        padding: 40px 25px !important;
+    }
+    .thank_you_page.space-cls {
+        padding-bottom: 40px;
+    }
+    .menu ul li a.active:after {
+        bottom: 0;
+    }
+    .about-sec.static_page {
+        margin-bottom: 40px;
+    }
+    .account_sec_language .btn i {
+        font-size: 16px;
+    }
+    .account_sec .btn-primary {
+        padding: 0 6px;
+        font-size: 10px;
+        height: 26px;
+        margin-left: 5px;
+        line-height: 0.9;
+    }
+    .main-header.newClass .logo img {
+        max-width: 100%;
+    }
+    .filter-inner {
+        display: flex;
+    }
+    .rules-cls-con p {
+        line-height: 1.5;
+        font-size: 14px;
+    }
+
+    .menu ul li a:after {
+        bottom: 0;
+    }
+    .copyright_sec {
+        padding: 10px 0;
+        margin-top: 40px;
+    }
+    footer.footer_sec {
+        padding: 40px 0 0;
+    }
+    .remove_bg {
+        display: none;
+    }
+    .account_sec {
+        margin-right: 36px;
+        text-align: right;
+    }
+    .account_sec_language {
+        margin-right: 10px;
+    }
+    .navbar-toggler {
+        border: 0;
+        padding: 0;
+    }
+    .navbar-toggler img {
+        max-width: 25px;
+    }
+    .collapse:not(.show) {
+        display: block;
+    }
+    #navbarSupportedContent {
+        position: fixed;
+        top: 0;
+        background: #fff;
+        height: 100vh;
+        padding: 20px;
+        min-width: 100%;
+        box-shadow: 0 0 10px #b1b1b1;
+        right: -100%;
+        transition: all 0.5s;
+        width: 100%;
+        z-index: 11;
+        overflow: auto;
+    }
+    .open_nav #navbarSupportedContent {
+        right: 0;
+        transition: all 0.5s;
+    }
+    .menu {
+        margin-left: 10px;
+        position: absolute;
+        right: 0;
+    }
+    .footer_title {
+        font-size: 16px;
+    }
+    .footer_link ul li a {
+        font-size: 13px;
+        margin-bottom: 0px !important;
+    }
+    .footer_link ul li {
+        margin-bottom: 10px;
+    }
+    .footer_about p {
+        font-size: 12px;
+        line-height: 1.6;
+    }
+    .court-sec .sub-head {
+        max-width: 60%;
+    }
+
+    .icon-cls img {
+        max-width: 20px;
+    }
+    .search-court input.form-control {
+        padding-left: 25px;
+    }
+    .serch-form .form-group .icon-cls {
+        left: 0;
+    }
+    .serch-form .form-control {
+        font-size: 12px;
+    }
+    .search-area input.form-control {
+        padding-left: 25px;
+    }
+    .btn-primary {
+        font-size: 12px;
+        line-height: 1;
+    }
+    .banner-cont-sec {
+        max-width: 100%;
+    }
+    .container {
+        min-width: unset;
+    }
+    .about-cont {
+        max-width: 100%;
+    }
+    .main-title h1 {
+        font-size: 44px;
+    }
+    .serch-form {
+        margin-top: 25px;
+    }
+    .arrow-down {
+        padding-top: 50px;
+    }
+    .contact-sec.space-cls {
+        padding: 40px 0;
+    }
+    .heading-type-2 {
+        font-size: 28px;
+    }
+    .sub-head {
+        margin: 10px 0;
+        font-size: 16px;
+    }
+    .about-cont p {
+        font-size: 14px;
+    }
+    .heading-type-3 {
+        font-size: 24px;
+    }
+    .date-sec {
+        flex: 0 0 100px;
+    }
+    .court-sec {
+        padding: 40px 0 !important;
+    }
+    .court-box {
+        margin-bottom: 20px;
+        height: calc(100% - 20px);
+    }
+    .court-sec .sub-head {
+        margin: 10px auto 20px;
+    }
+    .see-all {
+        margin-top: 10px;
+    }
+    .facilitie-sec .sub-head {
+        margin: 10px auto 20px;
+    }
+    .testimonial-sec {
+        padding: 40px 0;
+    }
+    .testi-inner {
+        padding: 30px;
+        max-width: 85%;
+    }
+    .testi-inner .item p {
+        font-size: 18px;
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .facilitie-sec .sub-head {
+        max-width: 45%;
+    }
+    .available-court {
+        padding: 5px 10px;
+    }
+
+    .available-court span {
+        font-size: 15px;
+    }
+    .challenge-sec .about-img {
+        position: relative;
+        padding-bottom: 40%;
+    }
+    .challenge-sec .about-img img {
+        position: absolute;
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+    }
+    .logo {
+        flex: 0 0 160px;
+        margin-right: 10px;
+    }
+    .main-header.newClass .logo {
+        flex: 0 0 140px;
+    }
+
+    .account_sec.dropdown button span.user-name-cls {
+        font-size: 12px;
+        line-height: 1;
+    }
+    .menu ul li {
+        width: 100%;
+        padding: 0;
+    }
+    .menu ul li a {
+        color: #000 !important;
+        padding: 10px 0 !important;
+        display: block;
+        border-bottom: solid 1px #ddd;
+    }
+    .menu ul {
+        align-items: unset;
+    }
+    .category_space {
+        padding-left: 30px;
+    }
+    .influencer_sec {
+        padding-left: 20px;
+    }
+    .open_nav .remove_bg {
+        display: block;
+    }
+    .btn_cross {
+        border: 0;
+        background: none;
+        padding: 0;
+    }
+    .facilities-page_in {
+        flex-wrap: wrap;
+    }
+    .side-filter {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin: 0;
+    }
+    .facilities-side {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .filter_pop {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        background: #48b349;
+        border-radius: 7px;
+        padding: 7px 15px;
+        margin-bottom: 20px;
+        color: #fff;
+    }
+    .filter_pop h3 {
+        font-size: 18px;
+        margin: 0;
+        line-height: 1;
+    }
+    .remove_filter {
+        display: block;
+    }
+    .open_filter {
+        overflow: hidden;
+    }
+    .filter_cross {
+        border: 0;
+        background: none;
+        padding: 0;
+        margin-right: 10px;
+    }
+    .side-filter,
+    .court_dtl_sidebar,
+    .leftbar {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 100%;
+        border-radius: 0;
+        z-index: 1111;
+        transition: all 0.5s;
+        height: calc(100% - 1px);
+        flex: 0 0 100%;
+        margin: 0;
+        background: #fff;
+        padding: 10px 10px;
+        overflow: auto;
+        margin-bottom: 40px
+    }
+/*    .court_dtl_sidebar_bot{
+        padding-bottom: 65px
+    }*/
+    .leftbar .filter-inner {
+        padding: 20px 0 10px;
+        border-bottom: 0;
+    }
+    .leftbar_itms {
+        border-radius: 0;
+    }
+    .open_filter .side-filter,
+    .open_filter .court_dtl_sidebar,
+    .open_filter .leftbar {
+        right: 0;
+        transition: all 0.5s;
+    }
+    .open_nav {
+        overflow: hidden;
+    }
+    .court_dtl_sec_in {
+        flex-wrap: wrap;
+        margin-bottom: 40px;
+    }
+    .court_dtl_con {
+        width: 100%;
+    }
+    .available-slot-sec {
+        font-size: 14px;
+        margin: 15px 0;
+    }
+    .ameni-col {
+        padding: 0 5px;
+    }
+    .ameni-name h5 {
+        font-size: 14px;
+    }
+    .ameni-row {
+        margin: 0 -5px;
+    }
+    .rules-col {
+        padding: 0 5px;
+    }
+    .slider_type1.owl-carousel .owl-nav button[class*="owl-"] {
+        bottom: -48px;
+    }
+    .facilities-dtl-cont.facilitiy_detail {
+        margin-top: 30px;
+    }
+    .head-user-img {
+        height: 24px;
+        width: 24px;
+    }
+    .content_sec_profile_img {
+        width: 120px;
+        height: 120px;
+    }
+    .account-page-in {
+        margin-bottom: 40px;
+        flex-direction: column;
+    }
+    .login_sec {
+        flex-wrap: wrap;
+    }
+    .login_sec_left {
+        flex: 0 0 100%;
+        padding: 20px;
+    }
+    .login_sec_left_img img {
+        max-height: 170px;
+    }
+    .login_sec_left_img {
+        margin-top: 0;
+    }
+    .login_sec_con {
+        padding: 20px;
+    }
+    .login_sec_con h4 {
+        font-size: 20px;
+    }
+    .facilities-page {
+        padding: 40px 0;
+    }
+    .account_sec.dropdown.account_sec_language
+        a.btn.btn-primary.dropdown-toggle {
+        width: 26px;
+    }
+    .checkout_page_row {
+        flex-direction: column-reverse;
+    }
+    .checkout_sidebar {
+        margin-bottom: 30px;
+    }
+    .account_sec .btn-primary:first-child {
+        margin-left: 0;
+    }
+}
+@media screen and (max-width: 767.98px) {
+    .main-header {
+        background-color: rgb(0 0 0 / 78%) !important;
+        padding: 5px 0;
+    }
+    .invite_title strong {
+        display: block;
+    }
+    span.invite_mobile strong {
+        display: block;
+    }
+    span.invite_mobile {
+        font-size: 14px;
+    }
+    .filter_item {
+        padding: 10px 0px;
+    }
+    .select-time {
+        margin: 10px 0px 10px;
+    }
+    .select-date {
+        margin: 10px 0;
+    }
+    .filter-inner {
+        padding-right: 0;
+    }
+    .checkout_page.space-cls {
+        padding: 40px 10px !important;
+    }
+    .account_sec.dropdown.account_sec_language {
+        max-width: 38px;
+        margin-right: 10px;
+    }
+
+    span.create_ch_meta_price {
+        font-size: 16px;
+    }
+    .sidebar_title h4 {
+        font-size: 14px;
+        margin-bottom: 4px;
+    }
+    .court_dtl_sidebar_price_prc {
+        font-size: 16px;
+    }
+    .facilities-dtl-cont.facilitiy_detail {
+        margin-top: 20px;
+    }
+    .facilities-dtl-cont .available-court {
+        margin: 15px 0;
+    }
+    .facilities_itms .row [class*="col-"]:last-child .court-box {
+        margin-bottom: 0;
+        height: unset;
+    }
+    .head-user-img img {
+        height: 24px;
+        width: 24px;
+    }
+    .courtpage-cont {
+        flex: 0 0 100%;
+    }
+    .court-sec [class*="col-"] {
+        padding: 0 10px;
+    }
+    .price-wrap h4 {
+        font-size: 14px;
+    }
+    .court-sec .row {
+        margin: 0 -10px;
+    }
+    .price-review-sec {
+        flex-direction: column;
+    }
+    .court_content .price-review-sec {
+        flex-direction: row;
+    }
+    .testi-inner {
+        max-width: 100%;
+    }
+    .footer_link ul {
+        margin-top: 20px;
+    }
+    .footer_link {
+        margin-top: 30px;
+    }
+    .facilitie-sec .sub-head {
+        max-width: 100%;
+    }
+    .court-cont {
+        padding: 0;
+    }
+    .category_sec {
+        padding: 140px 0 40px;
+    }
+    .about-sec .row {
+        flex-direction: column-reverse;
+    }
+    .about-sec .about-img {
+        margin-top: 20px;
+    }
+    .category_sec {
+        padding: 130px 0 40px;
+    }
+    .serch-form {
+        flex-wrap: wrap;
+        width: 100%;
+        padding: 20px;
+    }
+    .search-court {
+        flex: 0 0 50%;
+        border: 0;
+    }
+    .select-sport {
+        flex: 0 0 50%;
+        border: 0;
+    }
+    .search-area {
+        flex: 0 0 50%;
+    }
+    .search-btn {
+        flex: 0 0 50%;
+    }
+    .serch-form .form-control {
+        border: solid 1px #ddd;
+        padding: 0 10px;
+    }
+    .serch-form .form-group .icon-cls {
+        left: 10px;
+    }
+    .select-sport select {
+        background-position: calc(100% - 10px);
+    }
+    .search-court input.form-control {
+        padding-left: 40px;
+    }
+    .search-area input.form-control {
+        padding-left: 40px;
+    }
+    .icon-cls-right {
+        top: calc(50% - 12px);
+        right: 10px;
+    }
+    .available-court span {
+        font-size: 14px;
+    }
+    .category_space,
+    .influencer_sec {
+        padding-left: 15px;
+    }
+    .facilities-side .single-court {
+        flex-wrap: wrap;
+    }
+    .court-img {
+        flex: 0 0 100%;
+        padding-bottom: 35%;
+    }
+    .price-review-sec {
+        margin-top: 0;
+    }
+    .amenities-cls .ame-title h4 {
+        margin-bottom: 10px;
+    }
+    .court-cont.court_content {
+        padding: 10px;
+    }
+    .price-wrap + .review {
+        margin-top: 10px;
+    }
+    .court_content .box-title {
+        margin-bottom: 7px;
+    }
+    .price-wrap + .review {
+        flex: unset;
+    }
+    .challenges_itm_con {
+        flex-wrap: wrap;
+    }
+    .challenges_itm_right {
+        flex: 0 0 100%;
+        padding: 0;
+        margin: 15px 0 0 0;
+        border: 0;
+    }
+    .invite_friens_btn {
+        padding: 7.71px;
+        flex-direction: unset;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px;
+    }
+    .invite_friens_btn img {
+        flex: 0 0 18px;
+        width: 18px;
+        margin-right: 7px;
+    }
+    .invite_friens_btn span {
+        margin-top: 0;
+        line-height: 1;
+    }
+    .challenges_detail_itm_con span {
+        font-size: 12px;
+    }
+    .challenges_detail_itm_con h5 {
+        font-size: 12px;
+    }
+    .challenges_detail_itm {
+        padding: 12px 5px 10px;
+        margin-bottom: 15px;
+    }
+    .challenges_detail_itms .row {
+        margin: 0 -3px;
+    }
+    .challenges_detail_itms .row [class*="col-"] {
+        padding: 0 3px;
+    }
+    .challenges_detail_itm_ic img {
+        max-height: 30px;
+    }
+    .challenges_detail_itms [class*="col-"]:first-child .challenges_detail_itm {
+        margin-bottom: 6px;
+    }
+    .challenges_itm_right .btn + .btn {
+        margin-top: 15px;
+    }
+    .modal-body .sidebar_itm_info .row [class*="col-"]:first-child {
+        margin-bottom: 10px;
+    }
+    .user-img {
+        flex: 0 0 24px;
+        max-width: 24px;
+        display: inline-grid;
+    }
+    .notificaiton_count {
+        height: 10px;
+        width: 10px;
+        top: 0px;
+    }
+}
+@media screen and (max-width: 575.98px) {
+    .box-title h3 {
+        font-size: 13px;
+    }
+    .box-title h3 span, .challenges_itm_title h3 a span {
+        font-size: 11px;
+    }
+    .main-header {
+        background-color: rgb(0 0 0 / 78%) !important;
+        padding: 5px 0;
+    }
+    .contact_itm_cn h3 {
+        font-size: 12px;
+    }
+    .contact_itm_ic {
+        flex: 0 0 50px;
+        max-width: 50px;
+        height: 50px;
+    }
+    .contact_itm {
+        padding: 10px;
+    }
+    .contact_itms {
+        padding: 15px;
+        margin: 20px 0;
+    }
+    .cobtact_frm {
+        padding: 15px;
+    }
+    select {
+        background-position: calc(100% - 5px) !important;
+        background-size: 10px 7px !important;
+    }
+    .btn-dark {font-size: 12px;padding: 0 5px;}
+    .checkout_sidebar_head h3 {font-size: 18px;}
+    .checkout_con .radio_custom_itms .radio_custom_itm:last-child {margin-bottom: 0;}
+    .checkout_sidebar_itm {padding: 10px;}
+
+    .checkout_sidebar_itm span {font-size: 15px;}
+
+    .checkout_sidebar_prc_itm span {font-size: 15px;}
+
+    .checkout_sidebar_prc_itms {margin: 10px 0;}
+
+    .checkout_heading {font-size: 18px;}
+
+    .checkout_con .form-group label {font-size: 12px;margin-bottom: 15px !important;}
+
+    .checkout_con .radio_custom_itms .radio_custom_itm {font-size: 14px;padding-left: 25px !important;}
+
+    .checkout_con .radio_custom_itms .radio_custom_itm span {height: 18px;width: 18px;}
+
+    .checkout_con .radio_custom_itm .checkmark:after {top: 4px;left: 4px;}
+    .notification_main_sec .dropdown-menu.notification_main {
+        left: 0 !important;
+    }
+    .notification_main_sec.nav-item.dropdown {
+        margin-top: 10px;
+        margin-left: 0;
+        margin-right: auto;
+    }
+
+    .filter-inner {
+        padding: 20px 10px;
+    }
+    .user-img {
+        flex: 0 0 22px;
+        max-width: 22px;
+        display: inline-grid;
+    }
+    .header_cls {
+        flex-wrap: wrap;
+    }
+    .logo {
+        flex: 0 0 100% !important;
+    }
+    .logo img {
+        max-width: 140px !important;
+    }
+    .account_sec.dropdown.account_sec_language {
+        position: absolute;
+        right: 0;
+        top: 62px;
+        margin-right: 0;
+    }
+    .account_sec.dropdown button {
+        margin-left: 0;
+    }
+    .account_sec {
+        margin-top: 7px;
+    }
+    .account_sec button {
+        margin-left: 0;
+    }
+    .menu {
+        top: 20px;
+    }
+    .court_price_right {
+        flex: 0 0 110px;
+        max-width: 110px;
+        font-size: 15px;
+    }
+    .ame-title h4 {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+    .courts_icons img {
+        height: 20px;
+    }
+    .content_sec_profileinfo h4 {
+        font-size: 18px;
+    }
+    .search-court {
+        flex: 0 0 100%;
+        padding: 0px 0 10px;
+    }
+    .select-sport {
+        flex: 0 0 100%;
+        padding: 0 0 10px;
+    }
+    .search-area {
+        flex: 0 0 100%;
+        padding: 0 0 10px;
+    }
+    .search-btn {
+        flex: 0 0 100%;
+        padding: 0;
+    }
+    .main-title h1 {
+        font-size: 26px;
+    }
+    .main-title p {
+        max-width: 100%;
+        font-size: 14px;
+    }
+    .address-wrap {
+        flex-direction: column;
+    }
+    .time-wrap {
+        margin-left: 0 !important;
+        margin-top: 10px;
+    }
+    .time-wrap h5 {
+        text-align: left;
+    }
+    .btn-white {
+        margin-left: 0;
+    }
+    .testi-inner {
+        max-width: 100%;
+    }
+    .court-sec .sub-head {
+        max-width: 100%;
+    }
+    .testimonial-sec {
+        padding: 15px 0;
+    }
+    .challenge_dtl {
+        padding: 10px;
+    }
+
+    .testi-inner .item p {
+        font-size: 16px;
+    }
+    .quote-ic img {
+        max-width: 25px;
+    }
+    .testi-inner .inner-title {
+        margin-bottom: 20px;
+    }
+    .time-wrap button.btn-white {
+        width: 100%;
+        justify-content: space-between;
+        height: 30px;
+    }
+    .address-left .icon {
+        max-width: 22px;
+        height: 22px;
+    }
+    .address-left .icon img {
+        width: 10px;
+    }
+    .progress-dtl {
+        margin: 5px 0;
+    }
+    .available-slot-sec {
+        flex-direction: column;
+    }
+
+    .facilities-dtl-cont .box-title h3 {
+        font-size: 18px;
+    }
+    .ameni-col {
+        flex: 0 0 50%;
+        margin: 5px 0;
+    }
+    .price-review-sec {
+        margin-top: 0;
+        flex-direction: row;
+    }
+
+    .content_sec_profile {
+        flex: 0 0 100%;
+        border-bottom: 1px solid #ccc;
+        padding: 10px;
+        border: 0;
+    }
+    .content_sec_in {
+        flex-wrap: wrap;
+    }
+    .content_sec_profile .btn {
+        margin: 20px auto 0;
+    }
+    .account_sec.dropdown .dropdown-menu .dropdown-item {
+        font-size: 13px;
+    }
+    .challenges_itm {
+        flex-wrap: wrap;
+    }
+    .challenges_itm_img {
+        flex: 0 0 100%;
+        padding-bottom: 40%;
+    }
+    .challenges_itm_meta1 {
+        margin-top: 0;
+    }
+    .challenges_itm_meta {
+        margin-top: 0;
+    }
+    .challenges_itm_payment {
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .challenges_itm_price {
+        margin-top: 10px;
+    }
+    .challenges_itm_meta .opponent_s {
+        flex: unset;
+        margin-bottom: 0;
+        margin-top: 10px;
+        margin-right: 10px;
+    }
+    .challenges_itm_meta .court-location {
+        margin: 10px 0 0 0;
+    }
+    .challenges_itm_title h3 {
+        margin-bottom: 0;
+    }
+    .challenges_itm_price h4 span {
+        display: block;
+    }
+    .challenges_itm_price h4 {
+        text-align: right;
+    }
+    .challenges_player_nm {
+        font-size: 15px;
+    }
+    .challenges_player_img {
+        margin-right: 10px;
+    }
+    .challenges_player_status {
+        margin-right: 15px;
+    }
+    .challenges_detail_player {
+        padding: 12px;
+    }
+    .challenges_player_status {
+        font-size: 12px;
+    }
+    #myModal .modal-body {
+        padding: 20px;
+    }
+    .contact-sec form {
+        max-width: 100%;
+    }
+    .input-group select {
+        flex: 0 0 100px !important;
+        max-width: 100px;
+    }
+    .checkout_page_in {
+        max-width: 100%;
+        margin: auto;
+    }
+    .checkout_sidebar {
+        padding: 15px;
+    }
+    .address-dtl h5 {
+        font-size: 12px;
+    }
+    .user-name h5 {
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 420px) {
+    .user-name h5 {
+        font-size: 11px;
+    }
+    .address-dtl {
+        margin-left: 5px;
+    }
+    .address-dtl h5 {
+        font-size: 11px;
+    }
+    #myModal .modal-body {
+        padding: 15px;
+    }
+    .challenges_itm_date_time {
+        padding: 7px 10px;
+    }
+    .challenges_itm_con {
+        padding: 10px;
+    }
+    .challenge-cont {
+        padding: 10px;
+    }
+    .challenge-cont .inner-title {
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .testi-inner {
+        padding: 15px;
+    }
+    .date-sec {
+        flex: 0 0 70px;
+    }
+    .date-inner p {
+        font-size: 12px;
+    }
+    .court-price-inner {
+        flex: 0 0 100%;
+        padding-left: 0;
+        margin-left: 0;
+        border: 0;
+        justify-content: unset;
+        border-top: solid 1px #ddd;
+        padding-top: 10px;
+        margin-top: 10px;
+    }
+    .book-now button.btn-primary {
+        font-size: 11px;
+        height: 34px;
+    }
+    .loadmoar-class .loadMoareLink {
+        font-size: 11px;
+        height: 34px;
+    }
+    .court-price-inner .price-wrap h4 {
+        font-size: 15px;
+        margin: 0px 0 10px;
+    }
+
+    .courtpage-cont {
+        padding: 10px;
+        display: block;
+    }
+    .box-title {
+        margin-bottom: 10px;
+    }
+}

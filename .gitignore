@@ -1,0 +1,5 @@
+/vendor
+/nbproject
+/node_modules
+.env
+/public/uploads

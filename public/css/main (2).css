@@ -1,0 +1,75 @@
+.login-register {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    position: fixed;
+    background-image: url(../assets/images/bg_logo.jpg);
+    /* background-image: linear-gradient( to bottom, #1a7d47, #238a49, #2e984a, #3aa54a, #48b349 ) !important; */
+    background-size: cover;
+    overflow: auto;
+    padding: 25px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-register::before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.login-box {
+    width: 400px;
+    margin: 0 auto;
+}
+.login-box .footer {
+    width: 100%;
+    left: 0px;
+    right: 0px;
+}
+.login-box .social {
+    display: block;
+    margin-bottom: 30px;
+}
+#recoverform {
+    display: none;
+}
+
+.login-sidebar {
+    padding: 0px;
+    margin-top: 0px;
+}
+.login-sidebar .login-box {
+    right: 0px;
+    position: absolute;
+    height: 100%;
+}
+.btn-info {
+    color: #fff;
+    background-color: #00a651;
+    border-color: #00a651;
+}
+.btn-info:hover {
+    color: #fff;
+    background-color: #108348;
+    border-color: #108348;
+}
+.btn-info:not(:disabled):not(.disabled).active,
+.btn-info:not(:disabled):not(.disabled):active,
+.show > .btn-info.dropdown-toggle {
+    color: #fff;
+    background-color: #108348;
+    border-color: #108348;
+}
+.btn-info:not(:disabled):not(.disabled).active:focus,
+.btn-info:not(:disabled):not(.disabled):active:focus,
+.show > .btn-info.dropdown-toggle:focus {
+    box-shadow: unset;
+}
